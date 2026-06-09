@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Proyecto Final Java/CineGranada_BrunoVegasTorres/lib/**/*.jar"
+    ]
+}
